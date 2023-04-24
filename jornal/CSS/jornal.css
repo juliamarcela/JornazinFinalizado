@@ -1,0 +1,126 @@
+body{
+    background-color: #EBF3E7;
+    font-family: sans-serif;
+    line-height: 1.6; /*espaçamento entre linhas*/
+}
+
+.divtopo{
+    background-color: #22381d;
+    float: left;
+    text-decoration: none;
+    width: 100%;
+    color: #22381d;
+}
+
+.div1, .div2, .div3, .div4{
+    background-color: #679267;
+    float: left;
+    text-decoration: none;
+    width: 25%;
+}
+
+main{
+    float: left;
+    max-width: 700px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+h1{
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 65px;
+    }
+    
+    p{
+        margin-top: 0;
+    }
+
+    h1:hover{
+    background-color: #d3f3c3;
+    color: #fff;
+}
+
+section{
+    background-color: #fff;
+    border: 1px solid #aec9a1;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: JUSTIFY;
+}
+
+section h2{
+    background-color: #fff;
+    border-bottom: 1px dashed #D1F5DE;
+}
+
+section img{
+    border: 1px solid #B6D3B7;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    width: 150px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+hr{
+    border-width: 20px;
+    border-color: rgb(100, 139, 95);
+}
+
+.NeymarBruna img{
+    float: left;
+}
+
+.NeymarBruna video{
+    border: 1px solid #B6D3B7;
+    float: right;
+}
+
+.NeymarBruna p{
+    margin: 0 20px;
+    width: 750px;
+
+}
+
+a:hover{
+    color: #3A6332; 
+    text-decoration: none;   
+}
+
+a{
+    color: #22381d;
+    text-decoration: none;
+}
+
+.data{
+    text-align: center;
+}
+
+.publi{
+    float: right;
+    margin-left: 0%;
+    padding: 10px;
+}
+
+.principal{
+    max-width: 1000px;
+    margin: auto;
+}
+
+.principalClear{
+    clear: both;
+}
+
+.headerTitulo{
+    max-width: 1000px;
+    margin: auto;
+}
